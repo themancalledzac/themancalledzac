@@ -1,4 +1,4 @@
-### Hi there 👋
+### Full Stack Web Developer with photography, video production, and graphic design experience. Completing a certificate in Full-Stack Web Development with expertise specializing in skills in JavaScript, React, NodeJS, MySQL, and MongoDB. Strengths include creativity, teamwork, and problem-solving to reach feasible results. Excited to leverage knowledge and expertise in a fast-paced team to build a better tomorrow for the web.
 
 <!--
 **themancalledzac/themancalledzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
