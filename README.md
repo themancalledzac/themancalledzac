@@ -1,5 +1,5 @@
-### Full Stack Web Developer with photography, video production, and graphic design experience. Completed a certificate in Full-Stack Web Development with expertise specializing in skills in JavaScript, React, NodeJS, MySQL, and MongoDB. Strengths include creativity, teamwork, and problem-solving to reach feasible results. Excited to leverage knowledge and expertise in a fast-paced team to build a better tomorrow for the web.
-
+### Full Stack Web Developer currently working as a Backend Java developer with some Javascript/React frontend work as well. 
+Previously have completed a certificate in Full-Stack Web Development with expertise specializing in skills in JavaScript, React, NodeJS, MySQL, and MongoDB. Strengths include creativity, teamwork, and problem-solving to reach feasible results.
 [Portfolio](https://zacedens.com)
 
 Feel free to contact me with any questions.
