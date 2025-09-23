@@ -1,5 +1,5 @@
-### Full Stack Web Developer currently working as a Backend Java developer with some Javascript/React frontend work as well. 
-Previously have completed a certificate in Full-Stack Web Development with expertise specializing in skills in JavaScript, React, NodeJS, MySQL, and MongoDB. Strengths include creativity, teamwork, and problem-solving to reach feasible results.
+### Full Stack Web Developer with experience in Frontend/React, Backend/Java/Spring. Currently working as a Data engineer with GCP/Airflow/BigQuery and most recently in Databricks.
+
 [Portfolio](https://zacedens.com)
 
 Feel free to contact me with any questions.
@@ -7,8 +7,6 @@ Feel free to contact me with any questions.
 [Email](mailto:themancalledzac@gmail.com)
 
 [Github](https://github.com/themancalledzac)
-
-[Twitter](https://twitter.com/themancalledzac)
 
 [Instagram](https://www.instagram.com/themancalledzac/)
 
