@@ -56,12 +56,3 @@ I build thoughtful web experiences and the data pipelines behind them. Full-stac
 - 📸 **Instagram:** [@themancalledzac](https://www.instagram.com/themancalledzac/)
 
 ---
-
-<!-- OPTIONAL: GitHub stats. Tasteful but cliché to some — keep or delete this whole block. -->
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  ![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=themancalledzac&show_icons=true&hide_border=true&theme=transparent)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themancalledzac&layout=compact&hide_border=true&theme=transparent)
-
-</details>
