@@ -52,7 +52,7 @@ I build thoughtful web experiences and the data pipelines behind them. Full-stac
 
 - 🌐 **Portfolio:** [zacedens.com](https://zacedens.com)
 - 📧 **Email:** [themancalledzac@gmail.com](mailto:themancalledzac@gmail.com)
-- 💼 **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/) <!-- add your LinkedIn, or delete this line -->
+- 💼 **LinkedIn:** [zacedens]([https://www.linkedin.com/in/](https://www.linkedin.com/in/zacedens/))
 - 📸 **Instagram:** [@themancalledzac](https://www.instagram.com/themancalledzac/)
 
 ---
